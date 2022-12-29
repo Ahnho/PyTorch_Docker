@@ -38,3 +38,4 @@ RUN conda install -y -c conda-forge jupyterlab
 ENV PIP_ROOT_USER_ACTION=ignore
 RUN pip install opencv-python
 RUN pip install tensorboard
+RUN pip install markupsafe==2.0.1
