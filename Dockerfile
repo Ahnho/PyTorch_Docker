@@ -2,7 +2,7 @@ FROM pytorch/pytorch:latest
 LABEL maintainer="sangho"
 LABEL description="PyTorch Docker Image"
 LABEL version="0.1"
-
+ 
 
 RUN apt update && apt upgrade -y
 RUN apt install -y sudo
