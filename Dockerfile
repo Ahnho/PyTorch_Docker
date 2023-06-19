@@ -42,3 +42,4 @@ RUN pip install tensorboardX
 RUN pip install diffdist
 RUN pip install markupsafe==2.0.1
 RUN pip install torch torchaudio
+RUN pip install einops
