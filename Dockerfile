@@ -44,3 +44,4 @@ RUN pip install markupsafe==2.0.1
 RUN pip install torch torchaudio
 RUN pip install librosa==0.7.2
 RUN pip install einops 
+RUN pip install numba==0.48
