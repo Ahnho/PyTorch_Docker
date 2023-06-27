@@ -46,3 +46,4 @@ RUN pip install librosa==0.7.2
 RUN pip install einops 
 RUN pip install numba==0.48
 RUN pip install --upgrade librosa
+RUN pip install h5py
