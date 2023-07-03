@@ -48,3 +48,4 @@ RUN pip install numba==0.48
 RUN pip install --upgrade librosa
 RUN pip install h5py
 RUN pip install plotly
+RUN pip install spikingjelly
