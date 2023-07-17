@@ -50,3 +50,4 @@ RUN pip install h5py
 RUN pip install plotly
 RUN pip install spikingjelly
 RUN pip install transformers
+RUN pip install datasets
