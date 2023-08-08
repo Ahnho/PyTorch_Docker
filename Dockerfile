@@ -51,3 +51,4 @@ RUN pip install plotly
 RUN pip install spikingjelly
 RUN pip install transformers
 RUN pip install datasets
+RUN pip install pennylane
