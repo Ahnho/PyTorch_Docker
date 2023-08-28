@@ -52,3 +52,5 @@ RUN pip install spikingjelly
 RUN pip install transformers
 RUN pip install datasets
 RUN pip install pennylane
+RUN pip install tabulate
+RUN pip install torch torchvision --upgrade
