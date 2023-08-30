@@ -17,3 +17,5 @@ pip install spikingjelly
 pip install transformers
 pip install datasets
 pip install pennylane
+pip install tabulate
+pip install torch torchvision --upgrade
