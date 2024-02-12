@@ -19,3 +19,4 @@ pip install datasets
 pip install pennylane
 pip install tabulate
 pip install torch torchvision --upgrade
+pip install wandb
