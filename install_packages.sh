@@ -21,3 +21,4 @@ pip install tabulate
 pip install torch torchvision --upgrade
 pip install wandb
 pip install torchviz
+pip install pytorch-lightning
