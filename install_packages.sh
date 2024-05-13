@@ -24,3 +24,4 @@ pip install torchviz
 pip install pytorch-lightning
 pip install ax-platform
 pip install timm
+pip install fvcore
