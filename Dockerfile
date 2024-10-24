@@ -48,9 +48,19 @@ RUN pip install numba==0.48
 RUN pip install --upgrade librosa
 RUN pip install h5py
 RUN pip install plotly
-RUN pip install spikingjelly
 RUN pip install transformers
 RUN pip install datasets
-RUN pip install pennylane
 RUN pip install tabulate
 RUN pip install torch torchvision --upgrade
+
+RUN pip install wandb
+RUN pip install torchviz
+RUN pip install pytorch-lightning
+RUN pip install ax-platform
+RUN pip install timm
+RUN pip install fvcore
+RUN pip install einops
+RUN pip install art
+RUN pip install gpustat
+RUN pip install thop
+RUN pip install torchprofile
