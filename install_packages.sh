@@ -26,3 +26,6 @@ pip install ax-platform
 pip install timm
 pip install fvcore
 pip install einops
+
+pip install fastcore
+pip install torch-pruning
